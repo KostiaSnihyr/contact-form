@@ -78,12 +78,12 @@ fieldset input, #txtar, .learn-more-btn {
 fieldset input {
     height: 45px;
     line-height: 45px;
-    margin: 7px;
+    margin: 7px 0;
     text-indent: 10px;
 }
 
 #txtar {
-    margin: 7px;
+    margin: 7px 0;
     height: 163px;
     resize: none;
     padding: 10px;
